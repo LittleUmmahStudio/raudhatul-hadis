@@ -5,5 +5,5 @@ Poster baharu: simpan dalam gambar/poster/ dengan nama hadis-09.jpg, hadis-10.jp
 kemudian tambah nombor hadis dalam senarai POSTER_ADA di dalam index.html.
 Gambar aktiviti: letakkan dalam folder gambar/ dan tambah baris dalam senarai GALERI.
 
-Pratonton pautan WhatsApp: dalam index.html, cari NAMAPENGGUNA dan NAMA-REPO, ganti dengan alamat GitHub Pages ustazah.
+Pratonton pautan WhatsApp: sudah ditetapkan kepada http://games.littleummahstudio.com/raudhatul-hadis/ . Jika laman boleh dibuka dengan https://, tukar http:// kepada https:// dalam dua baris og: di index.html.
 Google Sites: ikon tab diset dalam Settings > Brand images (muat naik gambar gambar/laman/ikon-512.png).
