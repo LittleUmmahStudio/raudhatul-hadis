@@ -4,3 +4,6 @@ Muat naik SEMUA kandungan zip ini ke GitHub Pages (index.html dan folder gambar)
 Poster baharu: simpan dalam gambar/poster/ dengan nama hadis-09.jpg, hadis-10.jpg dan seterusnya,
 kemudian tambah nombor hadis dalam senarai POSTER_ADA di dalam index.html.
 Gambar aktiviti: letakkan dalam folder gambar/ dan tambah baris dalam senarai GALERI.
+
+Pratonton pautan WhatsApp: dalam index.html, cari NAMAPENGGUNA dan NAMA-REPO, ganti dengan alamat GitHub Pages ustazah.
+Google Sites: ikon tab diset dalam Settings > Brand images (muat naik gambar gambar/laman/ikon-512.png).
